@@ -1,2 +1,2 @@
-# spam-detection-analysis
-This project uses Naive Bayes classifier to classify a mail as spam or ham (non-spam) and compares the performance of count vectorizer and tfidf vectorizer
+# sms_spam_detection
+Sixth Semester NLP Project using scikit-learn
